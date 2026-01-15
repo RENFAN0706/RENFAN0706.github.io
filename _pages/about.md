@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a postdoctoral researcher collaborating with Prof. Dangxiao Wang (王党校) at the Institute of Robotics, School of Mechanical Engineering and Automation, Beihang University （北京航空航天大学机器人研究所）.
+I am currently working as a postdoctoral researcher collaborating with Prof. Hongxing Wei (魏洪兴) and Prof. Qinglei Hu (胡庆雷) at Hangzhou International Innovation of Beihang University (杭州市北京航空航天大学国际创新研究院) and the Embodied Intelligence Research Institute, Beihang University (北航具身智能研究院), and am under the academic co-supervision of by Prof. Yong Tao (陶永), my former master’s advisor.
 
-I obtained my Ph.D. in Mechatronic Engineering （机械电子工程）from Beihang University (2021–2025). My research interests include wearable robotics, cardiopulmonary assistance, and virtual reality （可穿戴机器人，心肺辅助，虚拟现实）.
+I obtained my Ph.D. in Artificial Intelligence from Nankai University (2021–2025) under the supervision of Prof. Jianda Han (韩建达). My research interests include medical intervention robotics, nonlinear control, dexterous manipulation and embodied ai.
 
-Please feel free to contact me via email at 773572772@qq.com if you are interested in my research.
+Please feel free to contact me via email at 17801034518@163.com if you are interested in my research.
 
 
 A data-driven personal website
